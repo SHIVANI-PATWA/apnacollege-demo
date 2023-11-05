@@ -1,2 +1,3 @@
 # apnacollege-demo
-Mt first git repository 
+My first git repository 
+author -shivani patwa 
